@@ -42,42 +42,53 @@ var data2 = new Array(
 );
 
 var data1 = new Array(
-"http://d2.freep.cn/3tb_1604040044318l8o562035.jpg",
-"http://d3.freep.cn/3tb_160404004431ymwv562035.jpg",
-"http://d2.freep.cn/3tb_160404004432gvlj562035.jpg",
-"http://d2.freep.cn/3tb_160404004432d5t8562035.jpg",
-"http://d2.freep.cn/3tb_160404004432xo76562035.jpg",
-"http://d3.freep.cn/3tb_160404004432q4ri562035.jpg",
-"http://d3.freep.cn/3tb_160404004433eb7k562035.jpg",
-"http://d2.freep.cn/3tb_160404004433n5oy562035.jpg",
-"http://d2.freep.cn/3tb_160404004433qogk562035.jpg",
-"http://d2.freep.cn/3tb_160404004433sq4b562035.jpg",
-"http://d3.freep.cn/3tb_160404004433ky9r562035.jpg",
-"http://d2.freep.cn/3tb_160404004434yq1p562035.jpg",
-"http://d2.freep.cn/3tb_160404004434av72562035.jpg",
-"http://d2.freep.cn/3tb_160404004434dlwo562035.jpg",
-"http://d2.freep.cn/3tb_1604040044357ivd562035.jpg",
-"http://d2.freep.cn/3tb_160404004437lp6e562035.jpg",
-"http://d3.freep.cn/3tb_160404004439tp36562035.jpg",
-"http://d3.freep.cn/3tb_1604040044419tfb562035.jpg",
-"http://d3.freep.cn/3tb_160404004443atcr562035.jpg",
-"http://d2.freep.cn/3tb_160404004445whvo562035.jpg",
-"http://d3.freep.cn/3tb_160404004447ewgk562035.jpg",
-"http://d3.freep.cn/3tb_160404004449hgs9562035.jpg",
-"http://d3.freep.cn/3tb_16040400445162ku562035.jpg",
-"http://d3.freep.cn/3tb_1604040044533a6m562035.jpg",
-"http://d2.freep.cn/3tb_160404004455jopj562035.jpg",
-"http://d3.freep.cn/3tb_1604040044584fg9562035.jpg",
-"http://d3.freep.cn/3tb_160404004459f776562035.jpg",
-"http://d2.freep.cn/3tb_1604040045014mvo562035.jpg",
-"http://d3.freep.cn/3tb_160404004503nwi5562035.jpg",
-"http://d2.freep.cn/3tb_160404004505rakm562035.jpg",
-"http://d2.freep.cn/3tb_16040400450744x2562035.jpg",
-"http://d3.freep.cn/3tb_1604040045096lkv562035.jpg",
-"http://d3.freep.cn/3tb_160404004511r04g562035.jpg",
-"http://d2.freep.cn/3tb_160404004513g4s1562035.jpg",
-"http://d3.freep.cn/3tb_160404004515ul24562035.jpg"
+  "http://d2.freep.cn/3tb_1604040044318l8o562035.jpg",
+  "http://d3.freep.cn/3tb_160404004431ymwv562035.jpg",
+  "http://d2.freep.cn/3tb_160404004432gvlj562035.jpg",
+  "http://d2.freep.cn/3tb_160404004432d5t8562035.jpg",
+  "http://d2.freep.cn/3tb_160404004432xo76562035.jpg",
+  "http://d3.freep.cn/3tb_160404004432q4ri562035.jpg",
+  "http://d3.freep.cn/3tb_160404004433eb7k562035.jpg",
+  "http://d2.freep.cn/3tb_160404004433n5oy562035.jpg",
+  "http://d2.freep.cn/3tb_160404004433qogk562035.jpg",
+  "http://d2.freep.cn/3tb_160404004433sq4b562035.jpg",
+  "http://d3.freep.cn/3tb_160404004433ky9r562035.jpg",
+  "http://d2.freep.cn/3tb_160404004434yq1p562035.jpg",
+  "http://d2.freep.cn/3tb_160404004434av72562035.jpg",
+  "http://d2.freep.cn/3tb_160404004434dlwo562035.jpg",
+  "http://d2.freep.cn/3tb_1604040044357ivd562035.jpg",
+  "http://d2.freep.cn/3tb_160404004437lp6e562035.jpg",
+  "http://d3.freep.cn/3tb_160404004439tp36562035.jpg",
+  "http://d3.freep.cn/3tb_1604040044419tfb562035.jpg",
+  "http://d3.freep.cn/3tb_160404004443atcr562035.jpg",
+  "http://d2.freep.cn/3tb_160404004445whvo562035.jpg",
+  "http://d3.freep.cn/3tb_160404004447ewgk562035.jpg",
+  "http://d3.freep.cn/3tb_160404004449hgs9562035.jpg",
+  "http://d3.freep.cn/3tb_16040400445162ku562035.jpg",
+  "http://d3.freep.cn/3tb_1604040044533a6m562035.jpg",
+  "http://d2.freep.cn/3tb_160404004455jopj562035.jpg",
+  "http://d3.freep.cn/3tb_1604040044584fg9562035.jpg",
+  "http://d3.freep.cn/3tb_160404004459f776562035.jpg",
+  "http://d2.freep.cn/3tb_1604040045014mvo562035.jpg",
+  "http://d3.freep.cn/3tb_160404004503nwi5562035.jpg",
+  "http://d2.freep.cn/3tb_160404004505rakm562035.jpg",
+  "http://d2.freep.cn/3tb_16040400450744x2562035.jpg",
+  "http://d3.freep.cn/3tb_1604040045096lkv562035.jpg",
+  "http://d3.freep.cn/3tb_160404004511r04g562035.jpg",
+  "http://d2.freep.cn/3tb_160404004513g4s1562035.jpg",
+  "http://d3.freep.cn/3tb_160404004515ul24562035.jpg"
 );
+
+var data4 = new Array(
+  "http://d2.freep.cn/3tb_160404184517bl9w562035.jpg",
+  "http://d2.freep.cn/3tb_160404184518ersc562035.jpg",
+  "http://d2.freep.cn/3tb_1604041845182kuj562035.jpg",
+  "http://d2.freep.cn/3tb_160404184518sout562035.jpg",
+  "http://d2.freep.cn/3tb_160404184518pinp562035.jpg",
+  "http://d3.freep.cn/3tb_160404184519bt7u562035.jpg",
+  "http://d2.freep.cn/3tb_1604041845196k80562035.jpg"
+);
+
 
 function loadGallery(n){
       panel = $("#main");
@@ -93,6 +104,10 @@ function loadGallery(n){
             case 3:
               data = data3;
               break;
+            case 4:
+              data = data4;
+              break;
+              
             default: 
       }
     
@@ -104,4 +119,19 @@ function loadGallery(n){
 
             panel.append(newcsss);
       } 
+}
+
+
+function GetRequest() {
+  
+  var url = location.search; //获取url中"?"符后的字串
+   var theRequest = new Object();
+   if (url.indexOf("?") != -1) {
+      var str = url.substr(1);
+      strs = str.split("&");
+      for(var i = 0; i < strs.length; i ++) {
+         theRequest[strs[i].split("=")[0]]=(strs[i].split("=")[1]);
+      }
+   }
+   return theRequest;
 }

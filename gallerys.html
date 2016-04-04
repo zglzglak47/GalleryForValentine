@@ -8,8 +8,6 @@
 <script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/script.js"></script>
 <script src="js/loadgallery.js"></script>
-
-
 </head>
 <body onload="waterFall()">
 
@@ -18,8 +16,13 @@
 </div>
 
 <script>
-    loadGallery(3);
-    // waterFall();
+	var Request = new Object();
+    Request = GetRequest();
+    var n;
+    n = Request['num'];
+    
+    loadGallery(parseInt(n));
+    
 </script>
 
 </body>
